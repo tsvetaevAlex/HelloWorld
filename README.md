@@ -1,1 +1,1 @@
-Hello WOrld console application on Java
+Hello World console application on Java programming language
