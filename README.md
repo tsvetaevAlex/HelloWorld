@@ -6,3 +6,4 @@ traditional first console application Hello World on various programming languag
 - Python
 - GoLang
 - Rust
+- assembler 
