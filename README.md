@@ -1,1 +1,1 @@
-Hello WOrld console application implemented on Rust programming language
+Hello World console application on Rust
