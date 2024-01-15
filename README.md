@@ -1,2 +1,2 @@
 # HelloWorld
-Hello WOrld console application on Kava Script
+Hello World console application on Kava Script programming language
