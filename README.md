@@ -1,2 +1,2 @@
 # HelloWorld
-Hello WOrld console application on GoLang
+Hello World console application on GoLang programming language
