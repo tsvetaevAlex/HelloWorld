@@ -1,2 +1,1 @@
-# HelloWorld
-first program "Helo World" on known languages
+traditional first console application Hello World on various programming languages
