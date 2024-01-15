@@ -1,2 +1,2 @@
 # HelloWorld
-first program "Helo World" on known languages
+Hello WOrld console application on GoLang
